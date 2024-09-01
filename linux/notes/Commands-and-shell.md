@@ -9,7 +9,6 @@ A **shell** is a command-line interpreter that processes and executes the comman
 ### Common Shells:
 - **Bash (Bourne Again Shell)**: Default on many Linux distributions and macOS.
 - **Zsh (Z Shell)**: Known for its advanced features and customizability.
-- **Fish (Friendly Interactive Shell)**: Focuses on user-friendly design and interactive features.
 
 ## Key Differences Between Terminal and Shell
 
