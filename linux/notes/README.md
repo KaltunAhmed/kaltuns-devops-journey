@@ -1,5 +1,5 @@
 # Linux notes
 
 ## Contents 
-## Notes 
+### Notes 
 - [Notes: Brief history of Unix & Linux ](./Linux-history.md)
