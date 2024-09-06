@@ -6,10 +6,8 @@ This repository is designed to track my progress as I navigate through various m
 
 
 
-## Contents P
-- 📖 [Linux ](./linux/README.md)
-
-
+## Contents 
+- 📖 [Linux ](./linux/linux-home.md)
 
 
 ### License
