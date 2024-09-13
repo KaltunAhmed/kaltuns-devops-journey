@@ -7,8 +7,10 @@ This repository is designed to track my progress as I navigate through various m
 
 
 ## Contents 
-- 📖 [Linux ](./linux/linux-home.md)
+- 💾 [Linux ](./linux/linux-home.md)
 - 📖 [Bash](./bash/bash-home.md)
+- 🛜 [Networking](./networking/networking-home.md)
+
 
 
 ### License
