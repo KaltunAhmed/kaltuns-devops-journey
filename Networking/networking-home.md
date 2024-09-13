@@ -34,3 +34,15 @@ The OSI model is a conceptual framework used to understand and implement standar
 
 7. **[Application Layer](./notes/application-layer.md)**  
    - Provides network services directly to applications (e.g., HTTP, FTP).
+
+
+---
+
+***They’re divided into two groupings***
+
+- **Media layers**
+    - Dealing with how data is moved between point A and point B, whether it's in the same local network or on opposite sides of the planet.
+    
+- **Host layers**
+    - How the data is chopped up and reassembled for transport.
+    - How it's formatted so it's understandable by both sides of a network connection.
