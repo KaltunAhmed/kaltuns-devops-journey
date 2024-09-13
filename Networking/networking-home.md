@@ -1,13 +1,12 @@
-# Networking learning
+<h1 align="center"><em>Networking</em></h1>
 
 
 ### OSI 7-Layer Model
 
 The OSI model is a conceptual framework used to understand and implement standard networking protocols. Although not all networking software follows this exact model, it provides a strong foundation for networking principles.
 
-#### 7 Layers Stacked on Top of Each Other
+<h4 align="center"><em>7 Layers Stacked on Top of Each Other</em></h4>
 
----
 
 #### **Media Layer**
 
