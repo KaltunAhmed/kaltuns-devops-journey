@@ -1,5 +1,54 @@
 <h1 align="center"><em>Networking</em></h1>
 
+# Table of Contents
+
+- [Introduction to computer networks](#introduction-to-computer-networks)
+- [Key Networking Components ](#key-networking-components)
+- [OSI 7-Layer Model](#osi-7-layer-model)
+
+
+
+## Introduction to computer networks
+
+- A **computer network** is a group of **devices** connected together, allowing the sharing of information and **resources**.
+
+- There are two core types:
+  - **Local Area Network (LAN)**: Small and covers a limited area.
+  - **Wide Area Network (WAN)**: Similar to the internet, connecting schools and **businesses** worldwide.
+
+    ![Data Link Diagram](./assets/lan-wan.png)
+
+- Networks are the foundation that allows communication between devices, enabling us to use the internet to watch movies, communicate, and browse the web.
+
+- They allow us to share resources, such as printers or shared files at work.
+
+- They support apps for **connectivity** and data transfer.
+
+
+- Netowrking in DevOps
+  
+  <img align="center">![Data Link Diagram](./assets/intro-to-computer-networking-one.png)</img>
+  
+
+## Key Networking Components 
+
+- ***Switches***
+   - Connect **multiple** devices within the same network.
+   - Manage data flow within a **LAN**.
+   - Prevent congestion and ensure efficient communication.
+
+- ***Routers*** 
+   - Direct traffic between different networks.
+   - Ensure data gets to the right place.
+   - Connect different networks, such as your home network to the internet.
+
+- ***Firewalls***
+   - Protect networks.
+   - Monitor and control incoming and outgoing network traffic.
+
+
+
+
 
 ### OSI 7-Layer Model
 
