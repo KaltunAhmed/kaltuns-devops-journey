@@ -5,6 +5,7 @@
 - 📖 [Introduction to computer networks](#introduction-to-computer-networks)
 - 🗝️ [Key Networking Components ](#key-networking-components)
 - 🔢 [IP Addresses and MAC Addresses ](#ip-addresses-and-mac-addresses )
+- 🚦[Ports and Protocols](#ports-and-protocols)
 - 7️⃣ [OSI 7-Layer Model](#osi-7-layer-model)
 
 
@@ -76,8 +77,25 @@
    - MAC addresses operate at the **Data Link layer** of the OSI Model.
       - [Data Link layer notes](./notes/data-link-layer.md)
 
+
+## Ports and Protocols
+
+| **Protocol** | **TCP (Transmission Control Protocol)**                    | **UDP (User Datagram Protocol)**                |
+|--------------|------------------------------------------------------------|------------------------------------------------|
+| **Type**     | Connection-oriented                                         | Connectionless                                |
+| **Handshake**| Requires a handshake                                        | No prior communication needed                 |
+| **Reliability**| Reliable data transfer                                    | Fast but less reliable                        |
+| **Data Order**| Ensures data is delivered in order                         | No guarantee of data order                    |
+| **Error Checking**| Has error-checking and flow control                     | No error-checking                             |
+| **Use Case** | Suitable for any bidirectional communication                | Suitable for real-time applications where speed is more important than reliability |
+| **Examples** | File transfer, web browsing                                | DNS, VPN                                      |
+
+
+
    
 ## OSI 7-Layer Model
+
+*Open system Interconnection Modal*
 
 The OSI model is a conceptual framework used to understand and implement standard networking protocols. Although not all networking software follows this exact model, it provides a strong foundation for networking principles.
 
