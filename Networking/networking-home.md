@@ -2,9 +2,10 @@
 
 # Table of Contents
 
-- [Introduction to computer networks](#introduction-to-computer-networks)
-- [Key Networking Components ](#key-networking-components)
-- [OSI 7-Layer Model](#osi-7-layer-model)
+- 📖 [Introduction to computer networks](#introduction-to-computer-networks)
+- 🗝️ [Key Networking Components ](#key-networking-components)
+- 🔢 [IP Addresses and MAC Addresses ](#ip-addresses-and-mac-addresses )
+- 7️⃣ [OSI 7-Layer Model](#osi-7-layer-model)
 
 
 
@@ -47,10 +48,36 @@
    - Monitor and control incoming and outgoing network traffic.
 
 
+## IP Addresses and MAC Addresses
+
+- **IP**: Internet Protocol address
+   - It's a unique identifier assigned to each **device** on a network.
+   - It allows devices to locate and communicate with each other.
+   - Two types: 
+      - **IPv4**: `192.168.0.5`
+         - The most common.
+         - 32-bit address.
+         - Written in decimal format.
+         - Consists of 4 groups of numbers separated by dots.
+         - Each group ranges from 0-255, providing around 4.3 billion addresses.
+         - Due to the rapid growth of the internet, we're running out of IPv4 addresses.
+         
+      - **IPv6**: `2001:0db8:85a3:0000:0000:8a2e:0370:7334`
+         - 128-bit numbers.
+         - Written in hexadecimal format.
+         - We need to transition to IPv6; it's essential for the growth of the internet.
+         - IPv6 also includes enhancements like simplified address assignment and improved security features.
 
 
+- **MAC**: Media Access Control address
+   - A unique identifier assigned to a network interface.
+   - Each **device** on a network has its own MAC address.
+   - It's a 48-bit address, e.g., `00:1A:2B:3C:4D:5E`, using a hexadecimal format.
+   - MAC addresses operate at the **Data Link layer** of the OSI Model.
+      - [Data Link layer notes](./notes/data-link-layer.md)
 
-### OSI 7-Layer Model
+   
+## OSI 7-Layer Model
 
 The OSI model is a conceptual framework used to understand and implement standard networking protocols. Although not all networking software follows this exact model, it provides a strong foundation for networking principles.
 
