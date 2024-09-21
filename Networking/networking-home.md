@@ -7,7 +7,9 @@
 - 🔢 [IP Addresses and MAC Addresses ](#ip-addresses-and-mac-addresses )
 - 🚦[Ports and Protocols](#ports-and-protocols)
 - 7️⃣ [OSI 7-Layer Model](#osi-7-layer-model)
-
+- 📜 [DNS](./notes/dns.md)
+- 🛣️ [Routing](./notes/routing.md)
+- 🥅 [Subnetting](./notes/subnetting.md)
 
 
 ## Introduction to computer networks
