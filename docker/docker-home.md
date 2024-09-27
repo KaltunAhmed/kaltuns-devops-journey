@@ -51,7 +51,7 @@ Docker is an open-source platform that enables developers to automate the deploy
 
 
 
-# 🚀 Docker vs. Virtual Machines (VMs)
+# Docker vs. Virtual Machines
 
 Both Docker and Virtual Machines (VMs) are used to create isolated environments for applications, but they work in fundamentally different ways.
 
