@@ -6,11 +6,11 @@
 - 💻 [Docker vs Virtual machines ](#docker-vs-virtual-machines)
 - 🎼 [Docker composer](#docker-compose)
 - ⌨️  [Important Docker Commands](#important-docker-commands)
+- 🔬 [CoderCo Containers Challenge](#coderco-containers-challenge)
 
 
-## Introduction to Docker
 
-  # Introduction to Docker
+# Introduction to Docker
 
 Docker is an open-source platform that enables developers to automate the deployment, scaling, and management of applications within lightweight, portable containers. It simplifies the process of building, running, and shipping applications by packaging all dependencies, libraries, and configuration files together in an isolated environment.
 
@@ -152,7 +152,6 @@ services:
 
 # Important Docker Commands
 
-## Important Docker Commands
 
 | Command                          | Description                                                                                   |
 | --------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -176,3 +175,12 @@ services:
 | `docker network ls`               | Lists all Docker networks.                                                                    |
 | `docker volume ls`                | Lists all Docker volumes.                                                                     |
 
+
+
+
+
+# CoderCo Containers Challenge
+
+- I did the **CoderCo Containers Challenge**, which involved building a Multi-Container Application.
+
+- The README.md can be found [here](labs/flask-app/README.md).
