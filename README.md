@@ -10,6 +10,9 @@ This repository is designed to track my progress as I navigate through various m
 - 💾 [Linux ](./linux/linux-home.md)
 - 📖 [Bash](./bash/bash-home.md)
 - 🛜 [Networking](./Networking/networking-home.md)
+- 🫙 [Docker](./docker/docker-home.md)
+- 📝 [Terraform](./terraform/terraform.md)
+- 🐙 [kubernetes](./kubernetes/)
 
 
 

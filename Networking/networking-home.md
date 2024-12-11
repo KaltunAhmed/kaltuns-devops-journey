@@ -142,3 +142,6 @@ The OSI model is a conceptual framework used to understand and implement standar
 - **Host layers**
     - How the data is chopped up and reassembled for transport.
     - How it's formatted so it's understandable by both sides of a network connection.
+
+
+  <img align="center">![Data Link Diagram](./assets/OSI-modal-image.png)</img>
